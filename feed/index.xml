@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Para Todos</title>
-	<atom:link href="https://paratodos.co/feed/" rel="self" type="application/rss+xml" />
-	<link>https://paratodos.co/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Sat, 25 Jun 2022 20:57:29 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,15 +21,15 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>https://paratodos.co/wp-content/uploads/2021/05/Mask-Group-1.png</url>
+	<url>./../wp-content/uploads/2021/05/Mask-Group-1.png</url>
 	<title>Para Todos</title>
-	<link>https://paratodos.co/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Seguro exequial, un beneficio oportuno que aliviana cargas</title>
-		<link>https://paratodos.co/conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-3/</link>
+		<link>./../conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-3/index.html</link>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 20 May 2021 16:20:08 +0000</pubDate>
@@ -70,7 +70,7 @@
 			</item>
 		<item>
 		<title>Seguro de vivienda: protege tu patrimonio y brinda tranquilidad a tu familia</title>
-		<link>https://paratodos.co/conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-2/</link>
+		<link>./../conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-2/index.html</link>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 20 May 2021 16:19:08 +0000</pubDate>
@@ -111,7 +111,7 @@
 			</item>
 		<item>
 		<title>¿Por qué son importantes los seguros en nuestra vida?</title>
-		<link>https://paratodos.co/por-que-son-importantes-los-seguros-en-nuestra-vida/</link>
+		<link>./../por-que-son-importantes-los-seguros-en-nuestra-vida/index.html</link>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 20 May 2021 15:34:23 +0000</pubDate>

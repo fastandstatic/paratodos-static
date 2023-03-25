@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en Para Todos	</title>
-	<atom:link href="https://paratodos.co/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://paratodos.co/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description></description>
 	<lastBuildDate>Fri, 17 Mar 2023 13:02:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
