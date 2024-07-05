@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comentarios en Para Todos	</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 04 Jun 2024 19:07:14 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 04 Jul 2024 17:14:48 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 </channel>
 </rss>
