@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>./conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-3/index.html</loc>
+		<loc>/conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-3/</loc>
 		<lastmod>2022-06-25T20:57:19+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2021/05/exequias.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/05/exequias.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>./conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-2/index.html</loc>
+		<loc>/conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-2/</loc>
 		<lastmod>2022-06-25T20:57:25+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2021/05/vivienda.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/05/vivienda.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>./por-que-son-importantes-los-seguros-en-nuestra-vida/index.html</loc>
+		<loc>/por-que-son-importantes-los-seguros-en-nuestra-vida/</loc>
 		<lastmod>2022-06-25T20:57:29+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2021/05/por-que-son-importantes-los-seguros.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/05/por-que-son-importantes-los-seguros.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>eme, autor en Para Todos</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="/author/eme/feed/" rel="self" type="application/rss+xml" />
+	<link>/author/eme/</link>
 	<description></description>
 	<lastBuildDate>Sat, 25 Jun 2022 20:57:29 +0000</lastBuildDate>
 	<language>es</language>
@@ -18,18 +18,18 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2021/05/Mask-Group-1.png</url>
+	<url>/wp-content/uploads/2021/05/Mask-Group-1.png</url>
 	<title>eme, autor en Para Todos</title>
-	<link>./../index.html</link>
+	<link>/author/eme/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Seguro exequial, un beneficio oportuno que aliviana cargas</title>
-		<link>./../../../conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-3/index.html</link>
+		<link>/conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-3/</link>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 20 May 2021 16:20:08 +0000</pubDate>
@@ -37,7 +37,7 @@
 		<guid isPermaLink="false">https://paratodos.co/?p=528</guid>
 
 					<description><![CDATA[<p>La pérdida de un ser querido es un suceso que trae consigo cargas emocionales y, en ciertos casos, preocupaciones, cuando toca decidir cómo se va a solventar los gastos relacionados con todo el trámite legal, sepelio y demás. En esos momentos de duelo, lo que menos quisiéramos es tener que padecer por la incertidumbre que [&#8230;]</p>
-<p>La entrada <a href="./../../../conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-3/index.html">Seguro exequial, un beneficio oportuno que aliviana cargas</a> se publicó primero en <a href="./../../../index.html">Para Todos</a>.</p>
+<p>La entrada <a href="/conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-3/">Seguro exequial, un beneficio oportuno que aliviana cargas</a> se publicó primero en <a href="/">Para Todos</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>La pérdida de un ser querido es un suceso que trae consigo cargas emocionales y, en ciertos casos, preocupaciones, cuando toca decidir cómo se va a solventar los gastos relacionados con todo el trámite legal, sepelio y demás.</p>
@@ -65,7 +65,7 @@
 
 
 <p>En Para Todos Seguros pensamos en ti y en los tuyos, por eso estamos comprometidos con tu bienestar y en acompañarte en tus momentos difíciles. Comunícate con nosotros para conocer los beneficios de nuestro seguro exequial.</p>
-<p>La entrada <a href="./../../../conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-3/index.html">Seguro exequial, un beneficio oportuno que aliviana cargas</a> se publicó primero en <a href="./../../../index.html">Para Todos</a>.</p>
+<p>La entrada <a href="/conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-3/">Seguro exequial, un beneficio oportuno que aliviana cargas</a> se publicó primero en <a href="/">Para Todos</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -73,7 +73,7 @@
 			</item>
 		<item>
 		<title>Seguro de vivienda: protege tu patrimonio y brinda tranquilidad a tu familia</title>
-		<link>./../../../conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-2/index.html</link>
+		<link>/conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-2/</link>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 20 May 2021 16:19:08 +0000</pubDate>
@@ -81,7 +81,7 @@
 		<guid isPermaLink="false">https://paratodos.co/?p=529</guid>
 
 					<description><![CDATA[<p>La vivienda es, sin lugar a dudas, uno de los patrimonios más importantes que una persona puede llegar a tener, luego de varios años de esfuerzo y sacrificio. Por ende, si hay algo que merece ser protegido, es precisamente el techo. Toda familia es digna de tener un respaldo ante situaciones adversas, que casi siempre [&#8230;]</p>
-<p>La entrada <a href="./../../../conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-2/index.html">Seguro de vivienda: protege tu patrimonio y brinda tranquilidad a tu familia</a> se publicó primero en <a href="./../../../index.html">Para Todos</a>.</p>
+<p>La entrada <a href="/conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-2/">Seguro de vivienda: protege tu patrimonio y brinda tranquilidad a tu familia</a> se publicó primero en <a href="/">Para Todos</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>La vivienda es, sin lugar a dudas, uno de los patrimonios más importantes que una persona puede llegar a tener, luego de varios años de esfuerzo y sacrificio. Por ende, si hay algo que merece ser protegido, es precisamente el techo.</p>
@@ -109,7 +109,7 @@
 
 
 <p>En Para Todos Seguros sabemos lo importante que es el hogar y pensamos siempre en tu bienestar y el de tu familia, por eso tenemos las mejores opciones para brindarte el respaldo que merecen. Comunícate con nosotros y conoce lo que te queremos ofrecer.</p>
-<p>La entrada <a href="./../../../conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-2/index.html">Seguro de vivienda: protege tu patrimonio y brinda tranquilidad a tu familia</a> se publicó primero en <a href="./../../../index.html">Para Todos</a>.</p>
+<p>La entrada <a href="/conoce-los-beneficios-y-la-importancia-de-tener-el-seguro-de-renta-pensional-2/">Seguro de vivienda: protege tu patrimonio y brinda tranquilidad a tu familia</a> se publicó primero en <a href="/">Para Todos</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -117,7 +117,7 @@
 			</item>
 		<item>
 		<title>¿Por qué son importantes los seguros en nuestra vida?</title>
-		<link>./../../../por-que-son-importantes-los-seguros-en-nuestra-vida/index.html</link>
+		<link>/por-que-son-importantes-los-seguros-en-nuestra-vida/</link>
 		
 		<dc:creator><![CDATA[eme]]></dc:creator>
 		<pubDate>Thu, 20 May 2021 15:34:23 +0000</pubDate>
@@ -125,7 +125,7 @@
 		<guid isPermaLink="false">https://paratodos.co/?p=493</guid>
 
 					<description><![CDATA[<p>Aun teniendo las máximas precauciones y viviendo en el mayor hermetismo posible, no estamos exentos de que en algún momento tengamos que sortear una situación imprevista, como accidente, desastre natural o enfermedad. En ocasiones, dichos sucesos se presentan cuando menos lo esperamos, afectando nuestra salud u ocasionando daños en nuestro patrimonio. Es allí donde radica [&#8230;]</p>
-<p>La entrada <a href="./../../../por-que-son-importantes-los-seguros-en-nuestra-vida/index.html">¿Por qué son importantes los seguros en nuestra vida?</a> se publicó primero en <a href="./../../../index.html">Para Todos</a>.</p>
+<p>La entrada <a href="/por-que-son-importantes-los-seguros-en-nuestra-vida/">¿Por qué son importantes los seguros en nuestra vida?</a> se publicó primero en <a href="/">Para Todos</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Aun teniendo las máximas precauciones y viviendo en el mayor hermetismo posible, no estamos exentos de que en algún momento tengamos que sortear una situación imprevista, como accidente, desastre natural o enfermedad.</p>
@@ -153,7 +153,7 @@
 
 
 <p>En Para Todos Seguros estamos siempre comprometidos con tu bienestar y seguridad, por eso te ofrecemos nuestros seguros. Comunícate con nosotros para brindarte toda la información y darte la asesoría necesaria.</p>
-<p>La entrada <a href="./../../../por-que-son-importantes-los-seguros-en-nuestra-vida/index.html">¿Por qué son importantes los seguros en nuestra vida?</a> se publicó primero en <a href="./../../../index.html">Para Todos</a>.</p>
+<p>La entrada <a href="/por-que-son-importantes-los-seguros-en-nuestra-vida/">¿Por qué son importantes los seguros en nuestra vida?</a> se publicó primero en <a href="/">Para Todos</a>.</p>
 ]]></content:encoded>
 					
 		
